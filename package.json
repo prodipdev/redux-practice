@@ -2,7 +2,7 @@
   "name": "first-try",
   "version": "1.0.0",
   "description": "",
-  "main": "product.js",
+  "main": "middleware.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "redux": "^4.2.1"
+    "redux": "^4.2.1",
+    "redux-logger": "^3.0.6"
   }
 }
