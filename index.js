@@ -86,5 +86,5 @@ store.subscribe(() => {
 // store.dispatch(incrementCounterAction());
 // store.dispatch(decrementCounterAction());
 
-store.dispatch(addUser("Karati"));
-store.dispatch(addUser("Anamika"));
+// store.dispatch(addUser("Karati"));
+// store.dispatch(addUser("Anamika"));
